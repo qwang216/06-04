@@ -10,10 +10,11 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        NSArray *onTheChristmas = @[@"On the", @"of Christmas"];
+        NSArray *onTheChristmas = @[@"On the", @"day of Christmas"];
         NSArray *dates = @[@"first", @"second", @"third", @"fourth", @"fifth", @"sixth", @"seventh", @"eighth", @"ninth", @"tenth", @"eleventeenth", @"twelfth" ];
-        NSArray *song = @[@"my true love sent to me:",@"a Fartridge in a Pear Tree", @"2 Regular Turtles", @"3 French Horns", @"4 Calling Cards", @"5 Golden Things", @"6 Geese a Shitting", @"7 Swans a Shitting", @"8 Maids a Shitting", @"9 Ladies Shitting", @"10 Lords a Shitting", @"11 Pipers Shitting", @"12 Drummers Still Shitting"];
+        NSArray *song = @[@"my true love sent to me:",@"a Fartridge in a Pear Tree", @"2 Regular Turtles", @"3 French Horns", @"4 Calling Cards", @"5 Golden Things", @"6 Geese a Shitting", @"7 Swans a Shitting", @"8 Maids a Shitting", @"9 Ladies Shitting", @"10 Lords a Shitting", @"11 Pipers Shitting", @"12 Drummers Shitting"];
 
+        //you forgot the word 'day'
 
 
         NSLog(@"\n %@ %@ %@ \n %@ \n A Partridge in a Pear Tree. \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n \n %@ %@ %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@ \n %@",
